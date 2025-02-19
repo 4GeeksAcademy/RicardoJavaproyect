@@ -1,5 +1,14 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: rgb(235, 224, 203);
+    border: 60;
+
+}
+p {
+    color: green;
+    padding: 150px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-overflow: ellipsis;
 }
